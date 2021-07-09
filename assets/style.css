@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+    font-family: 'open sans', sans-serif;
+    font-size: 48px;
+    line-height: 1;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+    
+}
